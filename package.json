@@ -1,0 +1,25 @@
+{
+  "name": "mmm-coinmarketcal",
+  "version": "1.0.0",
+  "description": "A MagicMirror module that displays upcoming cryptocurrency events for a  specific coin/token in iCal format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagodin/MMM-CoinMarketCal.git"
+  },
+  "author": "Jacob Godin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagodin/MMM-CoinMarketCal/issues"
+  },
+  "homepage": "https://github.com/jagodin/MMM-CoinMarketCal#readme",
+  "dependencies": {
+    "ical-generator": "^1.7.2",
+    "moment": "^2.24.0",
+    "os": "^0.1.1",
+    "request": "^2.88.0"
+  }
+}
