@@ -32,7 +32,7 @@ cal.events([
     }
 ]);
 
-console.log(cal.events()); // --> [ICalEvent]
+console.log(cal.events());
 
 cal.save('test.ics', function(err) {
     if(err) {
