@@ -18,7 +18,7 @@
   "homepage": "https://github.com/jagodin/MMM-CoinMarketCal#readme",
   "dependencies": {
     "ical-generator": "^1.7.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "os": "^0.1.1",
     "request": "^2.88.0"
   }
